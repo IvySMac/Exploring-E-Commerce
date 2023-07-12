@@ -1,10 +1,18 @@
 # Exploring E-Commerce 
 
 ## Description 
-coming soon
+For this assignment, I'm going to be experimenting with the GET, POST, PUT and DELETE methods for routes files and getting a feel 
+for how they work within Insomnia. 
 
 ## Usage
-coming soon
+
+Route files are strictly back end and makeup the API. To see them in action, you will need to...
+
+    -Run MySQL 
+    -Seed the database by running 'npm run seed'
+    -Start the server by typing the command 'node server' 
+
+You will then open up Insomnia (or the Thunder Client extension inside VS code) and use the GET, POST, PUT, and DELETE drop down menu to traverse the routes. You can check how to do so in my demo video <a href="https://drive.google.com/file/d/1zkx9bEX9GcKu6gs6fOkW1LSYUCM4HYEE/view">here</a> 
 
 ## User Story
 ```
